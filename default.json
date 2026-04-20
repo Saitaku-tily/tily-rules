@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Tily 齋藤案件用 テロップ補正辞書（初回ローカルフォールバック）",
   "updatedAt": "2026-04-20",
 
@@ -146,10 +146,12 @@
     { "from": "Line", "to": "LINE" },
     { "from": "フェイスブック", "to": "Facebook" },
     { "from": "facebook", "to": "Facebook" },
-    { "from": "プレミアプロ", "to": "Premiere Pro" },
-    { "from": "プレミア", "to": "Premiere Pro" },
-    { "from": "Premiere pro", "to": "Premiere Pro" },
-    { "from": "premiere pro", "to": "Premiere Pro" },
+    { "from": "プレミアプロ", "to": "Premiere" },
+    { "from": "プレミア", "to": "Premiere" },
+    { "from": "Premiere Pro", "to": "Premiere" },
+    { "from": "Premiere pro", "to": "Premiere" },
+    { "from": "premiere pro", "to": "Premiere" },
+    { "from": "premiere", "to": "Premiere" },
     { "from": "アフターエフェクツ", "to": "After Effects" },
     { "from": "アフターエフェクト", "to": "After Effects" },
     { "from": "After effects", "to": "After Effects" },
